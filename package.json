@@ -1,5 +1,5 @@
 {
-  "name": "myreact",
+  "name": "Personal-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,7 +27,7 @@
     "styled-components": "^6.1.19",
     "swiper": "^11.2.10",
     "typescript": "^5.9.2",
-    "web-vitals": "^2.1.4",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
