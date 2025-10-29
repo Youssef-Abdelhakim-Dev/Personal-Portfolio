@@ -1,45 +1,54 @@
-# 🌟 My Portfolio
+# 🌟 My Portfolio  
 
-> I'm super excited to share my latest portfolio project! I designed it to be visually appealing, dynamic, and fully interactive.  
-
----
-
-## 🚀 Technologies Used
-
-1. **React.js**  
-   - Chosen for building the User Interface (UI).  
-   - The page is divided into multiple components like `Skills.js`, `Projects.js`, etc., then combined into a single cohesive structure.
-
-2. **Styled-Components**  
-   - For styling the website, managing colors, and creating a visually consistent design.
-
-3. **Swiper.js**  
-   - To create smooth sliders for the projects section.
-
-4. **Framer Motion**  
-   - Responsible for all animations across the website.
-
-5. **React-Icons**  
-   - For adding intuitive and stylish icons throughout the portfolio.
-
-6. **Supabase**  
-   - Makes the website dynamic.  
-   - Allows adding, updating, or deleting content without modifying the code.  
-   - For example, adding a new project in Supabase automatically updates the website for all visitors—no need to build a backend from scratch with PHP or Node.js.
-
-7. **D3.js**  
-   - For creating dynamic and interactive data visualizations.
+> A dynamic and modern portfolio showcasing my projects, skills, and creativity.  
+> Built with **React.js**, **Framer Motion**, **Styled-Components**, and **Supabase** for real-time content updates.  
 
 ---
 
-## 🎯 Features
+## 🏷️ Tech Stack  
 
-- Fully dynamic and responsive portfolio.  
-- Smooth animations and transitions with **Framer Motion**.  
-- Interactive project slider with **Swiper.js**.  
-- Easy icon integration with **React-Icons**.  
-- Dynamic content updates using **Supabase**.  
-- Beautiful and customizable charts/visualizations with **D3.js**.  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Styled-Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF007B?style=for-the-badge&logo=framer&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
 ---
 
+## 🎥 Demo Preview  
+
+
+https://github.com/user-attachments/assets/b2147997-7013-4331-ac79-6f6f4ec2c338
+
+
+
+
+---
+
+## 🎯 Features  
+
+- ⚡ Responsive and dynamic design  
+- 💫 Animated transitions with Framer Motion  
+- 🧩 Modular React components  
+- 🔄 Real-time updates using Supabase  
+- 🎞️ Interactive project carousel via Swiper.js  
+- 📊 Data visualizations with D3.js  
+- 🪄 Styled with Styled-Components  
+
+---
+
+## 🛠️ Setup  
+
+```bash
+# Clone the repository
+git clone https://github.com/Youssef-Abdelhakim-Dev/Personal-Portfolio.git
+
+# Navigate into the directory
+cd portfolio
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
